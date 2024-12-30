@@ -36,3 +36,14 @@ body {
 .userflash {
     background-color: green;
 }
+.start {
+    background-color: burlywood;
+    border-radius: 43%;
+    font-size: xx-large;
+    color: azure;
+    border: 3px solid black;
+}
+.start:hover {
+    border: 5px solid brown;
+
+}
